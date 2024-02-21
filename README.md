@@ -1,4 +1,4 @@
-# Progetto_Ingegnieria_del_Software_2023 - My Shelfie
+# Progetto_Ingegneria_del_Software_2023 - My Shelfie
 
 <img src="https://github.com/AlessandroConti11/Progetto_Ingegnieria_del_Software_2023/blob/main/src/main/resources/images/Publisher_material/Box%20noshadow%20280x280.png" width=300px height=300px alt="My Shelfie Box">
 
