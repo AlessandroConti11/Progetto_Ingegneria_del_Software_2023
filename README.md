@@ -10,6 +10,10 @@
 - Flavio Di Lorenzo (flavio.dilorenzo@mail.polimi.it)[@Frost40](https://github.com/Frost40)
 - Antonio Di Paola (antonio1.dipaola@mail.polimi.it) [@Dipa0219](https://github.com/Dipa0219)
 
+License: [MIT License](https://github.com/AlessandroConti11/Progetto_Ingegnieria_del_Software_2023/blob/main/LICENSE)
+
+Tags: `#My_Shelfie`, `#java`, `#javaFX`, `#polimi`, `#prova_finale`, `#software_engineering`.
+
 
 ## University
 
@@ -22,7 +26,7 @@ Academic Year: 2022/2023.
 
 ## Specification
 
-Implement the *My* *Shelfie* board game.
+Implement the *My Shelfie* board game.
 
 Project specifications in full are in the folder: *Specification/*.
 
@@ -39,7 +43,7 @@ Project specifications in full are in the folder: *Specification/*.
 | TCP/IP                       | :green_circle: |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | RMI                          | :green_circle: |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | CLI                          | :green_circle: |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| GUI                          | :green_circle: |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| GUI                          | :green_circle: |         | JavaFX has been used to implement it                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Full Game                    | :green_circle: |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Multiple Games               | :green_circle: |         | Advanced Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Persistence                  | :red_circle:   |         | Advanced Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
