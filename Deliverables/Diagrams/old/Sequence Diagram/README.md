@@ -3,5 +3,5 @@
 
 | File                                                                                                                                               | Comment          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| [sequence_diagram.pdf](https://github.com/federicodeintrona/IS23-AM06/blob/main/Deliverables/Diagrams/old/Sequence%20Diagram/sequence_diagram.pdf) | Sequence Diagram |
+| [sequence_diagram.pdf](https://github.com/AlessandroConti11/Progetto_Ingegnieria_del_Software_2023/blob/main/Deliverables/Diagrams/old/Sequence%20Diagram/sequence_diagram.pdf) | Sequence Diagram |
  
