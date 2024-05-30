@@ -12,7 +12,7 @@
 
 License: [MIT License](https://github.com/AlessandroConti11/Progetto_Ingegnieria_del_Software_2023/blob/main/LICENSE)
 
-Tags: `#My_Shelfie`, `#java`, `#javaFX`, `#polimi`, `#prova_finale`, `#software_engineering`.
+Tags: `#computer_engineering`, `#My_Shelfie`, `#java`, `#javaFX`, `#polimi`, `#prova_finale`, `#software_engineering`.
 
 
 ## University
